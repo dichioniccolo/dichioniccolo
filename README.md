@@ -42,7 +42,10 @@
 ---
 <br />
 
-[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=dichioniccolo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Niccolò's GitHub stats" src="https://github-readme-stats.vercel.niccolodichio.it/api?username=dichioniccolo&count_private=true&show_icons=true" />
+</details>
 
 [website]: https://niccolodichio.it
 [instagram]: https://www.instagram.com/niccolo_di_chio/
