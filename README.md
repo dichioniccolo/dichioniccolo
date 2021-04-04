@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niccolò</h1>
 <h3 align="center">A passionate Software Engineer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dichioniccolo&label=Profile%20views&color=0e75b6&style=flat" alt="dichioniccolo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dichioniccolo" alt="dichioniccolo" /></a> </p>
-
-
 [![Website](https://img.shields.io/website?label=niccolodichio.it&style=for-the-badge&url=https://www.niccolodichio.it)][website]
 
 - 🌱 I’m currently learning **GraphQL**
