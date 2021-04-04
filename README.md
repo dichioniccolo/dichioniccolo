@@ -33,6 +33,8 @@
 <img align="left" style="margin-left: 1rem;" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 </div>
 
+---
+
 [![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=dichioniccolo)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://niccolodichio.it
