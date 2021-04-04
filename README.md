@@ -14,7 +14,8 @@
 [<img align="left" style="margin-left: 1rem;" alt="Niccolò Di Chio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
+
+---
 
 ### Languages and Tools:
 
@@ -33,9 +34,10 @@
 <img align="left" style="margin-left: 1rem;" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 </div>
 
+<br/>
 ---
 
-[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=dichioniccolo)](https://github.com/anuraghazra/github-readme-stats)
+[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=dichioniccolo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://niccolodichio.it
 [instagram]: https://www.instagram.com/niccolo_di_chio/
