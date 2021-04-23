@@ -43,19 +43,6 @@
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-<br />
-<br />
-
----
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.niccolodichio.it/api/top-langs?username=dichioniccolo&show_icons=true&locale=en&layout=compact" alt="dichioniccolo" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.niccolodichio.it/api?username=dichioniccolo&show_icons=true&locale=en" alt="dichioniccolo" /></p>
-</details>
-
 [website]: https://niccolodichio.it
 [instagram]: https://www.instagram.com/niccolo_di_chio/
 [linkedin]: https://it.linkedin.com/in/niccol%C3%B2-di-chio
