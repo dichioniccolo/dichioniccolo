@@ -8,10 +8,6 @@
 
 <br />
 
-### Spotify Playing 🎧
-[![Spotify](https://spotify.vercel.niccolodichio.it/api/spotify)](https://open.spotify.com/user/niccolo29)
-
-
 ### Connect with me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
