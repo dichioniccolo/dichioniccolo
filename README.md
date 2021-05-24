@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niccolò</h1>
 <h3 align="center">A passionate Software Engineer from Italy</h3>
 
-[![Website](https://img.shields.io/website?label=niccolodichio.it&style=for-the-badge&url=https://www.niccolodichio.it)][website]
-
 - 🌱 I’m currently learning **GraphQL**
 - ⚡ Fun fact: I love to play the drums
 
